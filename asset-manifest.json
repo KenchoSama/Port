@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14415c95.css",
+    "main.js": "/static/js/main.04e300ea.js",
+    "static/js/453.9ae0e51d.chunk.js": "/static/js/453.9ae0e51d.chunk.js",
+    "static/media/project-img2.png": "/static/media/project-img2.595e40f4b84554e0d84e.png",
+    "static/media/banner-bg.jpg": "/static/media/banner-bg.a5f74fd1d9da296b7791.jpg",
+    "static/media/header-img.png": "/static/media/header-img.7ba3cec68733c099319c.png",
+    "static/media/footer-bg.jpg": "/static/media/footer-bg.6e223cc02d45d81cf3b6.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/MMM.png": "/static/media/MMM.40ea5209a1972fa69b30.png",
+    "static/media/AI.PNG": "/static/media/AI.012f39bd273184310cbc.PNG",
+    "static/media/sqlite.svg": "/static/media/sqlite.0b8253af823f692b25cc0c47864c40f6.svg",
+    "static/media/godot-auto.svg": "/static/media/godot-auto.d23a6eb18845c7d5387e0797b9eda80c.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.cd232979a7cbf83fbe7070526869e62c.svg",
+    "static/media/nodejs-dark.svg": "/static/media/nodejs-dark.d01eb487bc154d914fbee19be73a6ef0.svg",
+    "static/media/css.svg": "/static/media/css.34fed693dfbab8d35283d882eef5bad8.svg",
+    "static/media/github-dark.svg": "/static/media/github-dark.ea363357f6b1c86a8a933bac1e489a9f.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.cbd44c6b10b24faa22f1045865368dc0.svg",
+    "static/media/react-dark-1.svg": "/static/media/react-dark-1.45e05858175d1edbb57051533007343c.svg",
+    "static/media/python-dark.svg": "/static/media/python-dark.bf36a7c430d4004862f45f6478928de7.svg",
+    "static/media/cpp.svg": "/static/media/cpp.0170491bcee6df72d47e4c10e0fa8b90.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.a63c9476fa83b33ffc32894544c5ccb7.svg",
+    "index.html": "/index.html",
+    "static/media/tensorflow-auto.svg": "/static/media/tensorflow-auto.a1946acd66604e5df23064e680802a46.svg",
+    "main.14415c95.css.map": "/static/css/main.14415c95.css.map",
+    "main.04e300ea.js.map": "/static/js/main.04e300ea.js.map",
+    "453.9ae0e51d.chunk.js.map": "/static/js/453.9ae0e51d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14415c95.css",
+    "static/js/main.04e300ea.js"
+  ]
+}
